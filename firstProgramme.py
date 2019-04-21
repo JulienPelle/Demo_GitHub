@@ -57,10 +57,10 @@ if __name__ == __main__:
         print("code pas exécuté en cas d'appel")
                 
 # Appel fonction multiplication
-#multiplication(3,7)
-#multiplication(nb=3)
+multiplication(3,7)
+multiplication(nb=3)
 # Appel fonction d'aide pour multiplication
-#help(multiplication)
+help(multiplication)
 
 # Appel fonction avec un return
 def multiple3 (nb=3):
